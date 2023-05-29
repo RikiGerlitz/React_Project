@@ -1,0 +1,14 @@
+.container{
+    list-style-type: none;
+    display: grid;
+   
+    gap: 20px;
+    text-align: center;
+    grid-template-columns: repeat(3,1fr);
+    float:right;
+}
+
+.description{
+    direction: rtl;
+}
+

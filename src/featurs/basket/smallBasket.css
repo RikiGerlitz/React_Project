@@ -1,0 +1,14 @@
+.css{
+    position: fixed;
+    z-index: 1;
+}
+.line{
+    text-decoration: none;
+}
+.containers{
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    gap: 20px;
+    text-align: center;
+}
